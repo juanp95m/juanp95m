@@ -45,7 +45,3 @@ Este perfil funciona como mi portaflio técnico. Aquí recojo los proyectos más
 <p align="left">
   <a href="https://www.linkedin.com/in/TU_LINKEDIN" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
-<p align="center">
-  <i>"Haciendo que lo complejo parezca simple a través del código."</i>
-</p>
