@@ -1,6 +1,7 @@
 # ¡Hola! Soy Juan 👨‍💻
 
-![Space Science Tech GIF by European Space Agency - ESA](https://github.com/user-attachments/assets/11056008-dcdb-4e81-85d2-7261752801f3)
+
+<img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/ca67cbcb-1741-41e1-be08-1aceff830cfd" />
 
 
 ### 🚀 Un poco sobre mí
