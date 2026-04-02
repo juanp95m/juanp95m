@@ -8,7 +8,7 @@
 Actualmente estoy centrado en mi formación como programador en el **cursus de 42 Málaga (Fundación Telefónica)**. Mi enfoque diario es sencillo: resolver retos lógicos complejos utilizando **C**, priorizando siempre la limpieza del código y la eficiencia en el uso de recursos.
 
 ### 🎯 Sobre este espacio
-Este perfil funciona como mi portaflio técnico. Aquí recojo los proyectos más significativos que he desarrollado en 42. No son solo ejercicios de código; son soluciones validadas bajo estándares estrictos, con gestión manual de memoria y un fuerte enfoque en la robustez del software. Si buscas ver cómo manejo la concurrencia, el parsing o la algoritmia, los repositorios de abajo son un buen punto de partida.
+Este perfil funciona como mi portfolio técnico. Aquí recojo los proyectos más significativos que he desarrollado en 42. No son solo ejercicios de código; son soluciones validadas bajo estándares estrictos, con gestión manual de memoria y un fuerte enfoque en la robustez del software. Si buscas ver cómo manejo la concurrencia, el parsing o la algoritmia, los repositorios de abajo son un buen punto de partida.
 
 ---
 
@@ -36,9 +36,14 @@ Este perfil funciona como mi portaflio técnico. Aquí recojo los proyectos más
 ### 📊 Actividad y Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanp95m&theme=tokyonight" alt="Streak de Juan" />
+  <img src="https://github-readme-stats.vercel.app/api?username=juanp95m&show_icons=true&theme=tokyonight&locale=es" alt="Stats de Juan" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanp95m&theme=tokyonight&locale=es" alt="Streak de Juan" />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanp95m&layout=compact&theme=tokyonight&hide=html,css&locale=es" alt="Lenguajes" />
 </p>
-
 ---
 
 ### 📫 Contacto
