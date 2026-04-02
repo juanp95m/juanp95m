@@ -5,7 +5,7 @@
 
 
 ### 🚀 Un poco sobre mí
-Actualmente estoy centrado en mi formación como programador en el **cursus de 42 Málaga (Fundación Telefónica)**. Mi enfoque diario es sencillo: resolver retos lógicos complejos utilizando **C**, priorizando siempre la limpieza del código y la eficiencia en el uso de recursos.
+Actualmente estoy centrado en mi formación como programador en el **cursus de 42 Málaga (Fundación Telefónica)**, tratando de resolver retos lógicos complejos utilizando **C**, priorizando siempre la limpieza del código y la eficiencia en el uso de recursos.
 
 ### 🎯 Sobre este espacio
 Este perfil funciona como mi portfolio técnico. Aquí recojo los proyectos más significativos que he desarrollado en 42. No son solo ejercicios de código; son soluciones validadas bajo estándares estrictos, con gestión manual de memoria y un fuerte enfoque en la robustez del software. Si buscas ver cómo manejo la concurrencia, el parsing o la algoritmia, los repositorios de abajo son un buen punto de partida.
