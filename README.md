@@ -1,6 +1,7 @@
 # ¡Hola! Soy Juan 👨‍💻
 
-![binario](https://github.com/user-attachments/assets/99a71a99-9eb7-47d7-b424-82a2e017129f)
+![Space Science Tech GIF by European Space Agency - ESA](https://github.com/user-attachments/assets/11056008-dcdb-4e81-85d2-7261752801f3)
+
 
 ### 🚀 Un poco sobre mí
 Actualmente estoy centrado en mi formación como programador en el **cursus de 42 Málaga (Fundación Telefónica)**. Mi enfoque diario es sencillo: resolver retos lógicos complejos utilizando **C**, priorizando siempre la limpieza del código y la eficiencia en el uso de recursos.
