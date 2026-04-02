@@ -1,6 +1,6 @@
 # ¡Hola! Soy Juan 👨‍💻
 
-![hackergif](https://github.com/user-attachments/assets/32339bde-bfa2-4ed7-9489-fc681019d528)
+![binario](https://github.com/user-attachments/assets/99a71a99-9eb7-47d7-b424-82a2e017129f)
 
 ### 🚀 Un poco sobre mí
 Actualmente estoy centrado en mi formación como programador en el **cursus de 42 Málaga (Fundación Telefónica)**. Mi enfoque diario es sencillo: resolver retos lógicos complejos utilizando **C**, priorizando siempre la limpieza del código y la eficiencia en el uso de recursos.
