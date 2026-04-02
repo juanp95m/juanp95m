@@ -34,6 +34,7 @@ Este perfil funciona como mi portaflio técnico. Aquí recojo los proyectos más
 ---
 
 ### 📊 Actividad y Estadísticas
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=juanp95m&show_icons=true&theme=tokyonight&count_private=true" alt="Stats de Juan" />
   <br/>
