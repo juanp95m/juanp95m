@@ -36,9 +36,7 @@ Este perfil funciona como mi portaflio técnico. Aquí recojo los proyectos más
 ### 📊 Actividad y Estadísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanp95m&show_icons=true&theme=tokyonight" alt="Stats de Juan" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanp95m&layout=compact&theme=tokyonight&hide=html,css" alt="Lenguajes" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanp95m&theme=tokyonight" alt="Streak de Juan" />
 </p>
 
 ---
