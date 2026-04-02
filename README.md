@@ -33,18 +33,6 @@ Este perfil funciona como mi portfolio técnico. Aquí recojo los proyectos más
 
 ---
 
-### 📊 Actividad y Estadísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanp95m&show_icons=true&theme=tokyonight&locale=es" alt="Stats de Juan" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juanp95m&theme=tokyonight&locale=es" alt="Streak de Juan" />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanp95m&layout=compact&theme=tokyonight&hide=html,css&locale=es" alt="Lenguajes" />
-</p>
----
 
 ### 📫 Contacto
 <p align="left">
