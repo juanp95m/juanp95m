@@ -4,11 +4,11 @@
 <img width="2000" height="400" alt="banner" src="https://github.com/user-attachments/assets/ca67cbcb-1741-41e1-be08-1aceff830cfd" />
 
 
-### 🚀 Un poco sobre mí
+### 🚀 Sobre mí
 Actualmente estoy centrado en mi formación como programador en el **cursus de 42 Málaga (Fundación Telefónica)**, tratando de resolver retos lógicos complejos utilizando **C**, priorizando siempre la limpieza del código y la eficiencia en el uso de recursos.
 
 ### 🎯 Sobre este espacio
-Este perfil funciona como mi portfolio técnico. Aquí recojo los proyectos más significativos que he desarrollado en 42. No son solo ejercicios de código; son soluciones validadas bajo estándares estrictos, con gestión manual de memoria y un fuerte enfoque en la robustez del software. Si buscas ver cómo manejo la concurrencia, el parsing o la algoritmia, los repositorios de abajo son un buen punto de partida.
+Este perfil funciona como mi portfolio técnico. Aquí recojo los proyectos más significativos que he desarrollado en 42. No son solo ejercicios de código, son soluciones validadas bajo estándares estrictos, con gestión manual de memoria y un fuerte enfoque en la robustez del software. Si quieres ver algunos proyectos donde se trabaja la concurrencia, el parsing o la algoritmia, los repositorios de abajo son un buen punto de partida.
 
 ---
 
