@@ -31,7 +31,7 @@ Este perfil funciona como mi portfolio técnico. Aquí recojo los proyectos más
 | :--- | :--- | :--- |
 | **Minishell** | Parsing y procesos | [Explorar](https://github.com/juanp95m/minishell) |
 | **Philosophers** | Hilos y concurrencia | [Explorar](https://github.com/juanp95m/philosophers) 
-| **Fract-ol** | Gráficos y optimización | [Explorar](https://github.com/juanp95m/fract-ol) |
+| **Fract-ol** | Gráficos y optimización | [Explorar](https://github.com/juanp95m/fractol) |
 
 ---
 
