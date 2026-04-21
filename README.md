@@ -26,12 +26,11 @@ Este perfil funciona como mi portfolio técnico. Aquí recojo los proyectos más
 
 ### 📂 Proyectos Destacados
 
-
-| Proyecto | Especialidad | Repositorio |
-| :--- | :--- | :--- |
-| **Minishell** | Parsing y procesos | [Explorar](https://github.com/juanp95m/minishell) |
-| **Philosophers** | Hilos y concurrencia | [Explorar](https://github.com/juanp95m/philosophers) 
-| **Fract-ol** | Gráficos y optimización | [Explorar](https://github.com/juanp95m/fractol) |
+| Proyecto | Descripción Técnica |
+| :--- | :--- |
+| [**Minishell**](https://github.com/juanp95m/minishell) | Una shell interactiva que replica el comportamiento de Bash. Implementa un **parser complejo**, ejecución de procesos mediante `fork` y `execve`, gestión de **pipes**, redirecciones y señales de sistema. |
+| [**Philosophers**](https://github.com/juanp95m/philosophers) | Simulación de **concurrencia y multihilo** basada en el problema de Dijkstra. Resuelve conflictos de recursos compartidos utilizando hilos (`pthreads`) y exclusión mutua (`mutex`) para evitar bloqueos y condiciones de carrera. |
+| [**Fract-ol**](https://github.com/juanp95m/fractol) | Motor de renderizado de fractales (Mandelbrot y Julia) optimizado. Utiliza la librería gráfica **MLX42** y algoritmos matemáticos avanzados para permitir zoom infinito y cambios de color en tiempo real. |
 
 ---
 
